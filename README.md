@@ -10,7 +10,7 @@
 
 ## Who Am I?
 
-Hey! I'm Danysh, a data geek who loves turning raw data into meaningful insights. Whether it's tinkering with machine learning algorithms or managing IT projects, I thrive on solving complex problems and making things run smoothly. When I'm not knee-deep in code, you might find me exploring new tech, participating in hackathons, or doing yet another run through a Roguelite or anything that gives me Kingdom Hearts vibes.
+I'm a data geek who loves turning raw data into meaningful insights. I thrive on solving complex problems and making things run smoothly. Lately, I've been a huge fan of making Powershell Scripts to make my life easier, but you can catch me playing Competitive games like League of Legends or Tekken 8, or on slower days, doing yet another run through a Roguelite or anything that gives me Kingdom Hearts vibes.
 
 ### 💼 Experience
 
