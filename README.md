@@ -10,22 +10,7 @@
 
 ## Who Am I?
 
-I'm a data geek who loves turning raw data into meaningful insights. I thrive on solving complex problems and making things run smoothly. Lately, I've been a huge fan of making Powershell Scripts to make my life easier, but you can catch me playing Competitive games like League of Legends or Tekken 8, or on slower days, doing yet another run through a Roguelite or anything that gives me Kingdom Hearts vibes.
-
-### 💼 Experience
-
-#### **Afiniti** (March 2021 – March 2023)
-
-**Data Scientist I**
-
-- Led AI production operations, developing and maintaining predictive models that boosted client value by 6%.
-- Automated data analysis scripts, saving my team an hour of daily grind.
-- Created interactive dashboards and handled crisis management like a pro.
-- Trained newbies, ensuring they got up to speed with best coding practices.
-- Collaborated with data engineers on everything from data ingestion to deployment.
-
-**Tech Stack**: Bash, Docker, Git, Linux, Python (Flask, ggplot2, NumPy, Pandas, SQLAlchemy), PowerBI, R, SQL, Tableau  
-**Concepts**: AI, Agile, Automation, Bayesian Methods, Data Cleaning, Database Design, ETL, OOP, Probability & Statistics, RDBMS, Time-Series Analysis
+I'm a Competitive Programmer pivoting into Software Engineering. New to contributing to Open Source, and after establishing myself locally, I'm attempting to get into the online Competitive Programming scene. Lately, I've been a huge fan of making Powershell Scripts to make my life easier, but you can catch me playing Competitive games like League of Legends or Tekken 8, or on slower days, doing yet another run through a Roguelite or anything that gives me Kingdom Hearts vibes. 
 
 ### 🏆 Achievements
 
@@ -37,10 +22,5 @@ I'm a data geek who loves turning raw data into meaningful insights. I thrive on
 - **2nd Place** – International Fishackathon 2018 (Hackernest)
 - **1st Place** – Logic Building, Habib Code.Play() 2.0 (Habib University)
 - **2nd Place** – Speed Programming, CodeFest 2017 (IBA Karachi)
-
-### 📚 Research
-
-- **Comparative Analysis of Supportive Navigation on Movie Recommenders**(2023)
-    - [Read it on arXiv](https://arxiv.org/abs/2311.13494)
 
 * * *
