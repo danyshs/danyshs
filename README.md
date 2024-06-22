@@ -2,7 +2,9 @@
 
 **Software Engineer | Aspiring Game Dev | Tech Enthusiast**
 
-I'm a Competitive Programmer + Comp Sci grad getting into Software Engineering as a Career. New to contributing to Open Source, and after establishing myself locally, I'm attempting to get into the online Competitive Programming scene. Lately, I've been a huge fan of making Powershell Scripts to make my life easier, but you can catch me playing Competitive games like League of Legends or Tekken 8, or on slower days, doing yet another run through a Roguelite or anything that gives me Kingdom Hearts vibes. 
+I'm a Competitive Programmer + Comp Sci grad getting into Software Engineering as a Career. 
+
+I'm new to contributing to Open Source. After establishing myself locally, I'm attempting to get into the online Competitive Programming scene. Lately, I've been a huge fan of making Powershell Scripts to make my life easier, but you can catch me playing Competitive games like League of Legends or Tekken 8, or on slower days, doing yet another run through a Roguelite or anything that gives me Kingdom Hearts vibes. 
 
 ### 🏆 Achievements
 
