@@ -1,8 +1,7 @@
 # Hi, I'm Danysh!
 
 I'm a Competitive Programmer + Comp Sci grad getting into Software Engineering as a Career. 
-
-I'm new to contributing to Open Source. After establishing myself locally, I'm attempting to get into the online Competitive Programming scene. Lately, I've been a huge fan of making Powershell Scripts to make my life easier, but you can catch me playing Competitive games like League of Legends or Tekken 8, or on slower days, doing yet another run through a Roguelite or anything that gives me Kingdom Hearts vibes. Some day, I want to establish a start-up so that I can try to produce more games like the ones that I love in the world.
+Lately hooked on creating PowerShell scripts to automate and optimize my workflows.
 
 ### 🏆 Achievements
 
@@ -15,7 +14,7 @@ I'm new to contributing to Open Source. After establishing myself locally, I'm a
 - **1st Place** – Logic Building, Habib Code.Play() 2.0 (Habib University)
 - **2nd Place** – Speed Programming, CodeFest 2017 (IBA Karachi)
 * * *
-- **Location**: Toronto, ON [Open to Relocation]
+- **Location**: 🇨🇦 Toronto, ON [Open to Relocation] 🇨🇦
 - **Email**: danysh.3197@gmail.com
 - **LinkedIn**: [linkedin.com/in/danyshs](https://www.linkedin.com/in/danyshs)
 - **GitHub**: [You're currently here!]
