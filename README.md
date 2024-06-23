@@ -15,4 +15,4 @@ Lately hooked on creating PowerShell scripts to automate and optimize my workflo
 - **2nd Place** – Speed Programming, CodeFest 2017 (IBA Karachi)
 * * *
 
-<span style="font-size:larger;">Currently on the job hunt!</span>
+Currently on the job hunt!
