@@ -3,7 +3,6 @@
 I'm a Competitive Programmer + Comp Sci grad getting into Software Engineering as a Career. 
 Lately hooked on creating PowerShell scripts to automate and optimize my workflows.
 
-Currently on the job hunt!
 ### 🏆 Achievements
 
 - **2nd Place** – Team Project Sam, AppCon 2019 (Telenor Microfinance Bank)
@@ -16,3 +15,4 @@ Currently on the job hunt!
 - **2nd Place** – Speed Programming, CodeFest 2017 (IBA Karachi)
 * * *
 
+Currently on the job hunt!
