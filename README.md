@@ -2,7 +2,7 @@
 
 I'm a Competitive Programmer + Comp Sci grad getting into Software Engineering as a Career. 
 Lately hooked on creating PowerShell scripts to automate and optimize my workflows.
-
+* * *
 ### 🏆 Achievements
 
 - **2nd Place** – Team Project Sam, AppCon 2019 (Telenor Microfinance Bank)
