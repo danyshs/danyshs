@@ -1,6 +1,10 @@
 # Hi, I'm Danysh!
 
-I'm a Competitive Programmer + Comp Sci grad getting into Software Engineering as a Career with a focus on Generative AI. 
+I'm a Competitive Programmer + Comp Sci Bachelor's grad with a love for Game Dev, with past experience in Unity 2D+3D. 
+Godot is my current engine of choice. 
+
+I also have 2 years of experience as a Data Scientist and am pivoting to Software Engineering (preferably in GenAI so I can combine both my past proficiencies with my interest in one job.)
+ 
 * * *
 ### 🏆 Achievements
 
