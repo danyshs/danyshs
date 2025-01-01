@@ -1,7 +1,6 @@
 # Hi, I'm Danysh!
 
-I'm a Competitive Programmer + Comp Sci grad getting into Software Engineering as a Career. 
-Lately hooked on creating PowerShell scripts to automate and optimize my workflows.
+I'm a Competitive Programmer + Comp Sci grad getting into Software Engineering as a Career with a focus on Generative AI. 
 * * *
 ### 🏆 Achievements
 
