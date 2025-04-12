@@ -7,7 +7,9 @@ I also have 2 years of experience as a Data Scientist and am pivoting to Softwar
  
 * * *
 ### 🏆 Achievements
-
+- **2nd Place - Overall** – DeveloperWeek 2025 (DevPost)
+- **1st Place - Oracle Challenge** – DeveloperWeek 2025 (DevPost)
+- **1st Place - Pliops Challenge** – DeveloperWeek 2025 (DevPost)
 - **2nd Place** – Team Project Sam, AppCon 2019 (Telenor Microfinance Bank)
 - **Semi-Finalist** – IBA Data Science Hackathon 2019 (Inqline)
 - **Finalist** – Speed Programming, ProCom 2019 (FAST University)
