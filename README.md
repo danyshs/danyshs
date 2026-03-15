@@ -17,6 +17,10 @@ I want to turn AI into a tool that can serve the masses in an accessible and sus
 - **6 Months as a Generative AI Engineer**
 * * *
 ## Stuff I've Done
+### Projects
+- Zettelkaster
+- DiscWhisper
+- Dan VoiceBot (WIP)
 ### Game Development Projects
 - **Angry Birds clone** - Unity 2D
 - **Flappy Bird clone** - Unity 2D
