@@ -35,6 +35,7 @@ Note: All AI projects are intended for use on a home computer using Local LLMs, 
 #### 2026:
 - **RPG Project** - Godot
 - **Rhythm Game** - Godot
+
 After what I've learned, Ill be participating on Game Jams more now.
 ### Competitions 
 - **2nd Place** - MIREX Piano Continuation
