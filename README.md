@@ -6,7 +6,14 @@ Godot is my current engine of choice.
 I also have 2 years of experience as a Data Scientist and am pivoting to Software Engineering (preferably in GenAI so I can combine both my past proficiencies with my interest in one job.)
  
 * * *
-### 🏆 Achievements
+### Research Publications
+- **UI/UX Design** — https://arxiv.org/abs/2311.13494
+- **Generative AI** — https://www.researchgate.net/publication/395541308_A_Traditional_Approach_to_Symbolic_Piano_Continuation
+### Job Experience
+- **2 Years as a Data Scientist**
+- **6 Months as a Generative AI Engineer**
+* * *
+### Stuff I've Done
 - **2nd Place - Overall** – DeveloperWeek 2025 (DevPost)
 - **1st Place - Oracle Challenge** – DeveloperWeek 2025 (DevPost)
 - **1st Place - Pliops Challenge** – DeveloperWeek 2025 (DevPost)
