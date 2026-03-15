@@ -1,9 +1,11 @@
 # Hi, I'm Danysh!
 
-I'm a Competitive Programmer + Comp Sci Bachelor's grad with a love for Game Dev, with past experience in Unity 2D+3D. 
-Godot is my current engine of choice. 
+- Competitive Programmer
+- AI Researcher
+- Game Dev
+- Loves videogames
 
-I also have 2 years of experience as a Data Scientist and am pivoting to Software Engineering (preferably in GenAI so I can combine both my past proficiencies with my interest in one job.)
+I want to turn AI into a tool that can serve the masses in an accessible and sustainable way.
  
 * * *
 ## Career
