@@ -6,6 +6,7 @@ Godot is my current engine of choice.
 I also have 2 years of experience as a Data Scientist and am pivoting to Software Engineering (preferably in GenAI so I can combine both my past proficiencies with my interest in one job.)
  
 * * *
+## Career
 ### Research Publications
 - **UI/UX Design** — https://arxiv.org/abs/2311.13494
 - **Generative AI** — https://www.researchgate.net/publication/395541308_A_Traditional_Approach_to_Symbolic_Piano_Continuation
@@ -13,7 +14,17 @@ I also have 2 years of experience as a Data Scientist and am pivoting to Softwar
 - **2 Years as a Data Scientist**
 - **6 Months as a Generative AI Engineer**
 * * *
-### Stuff I've Done
+## Stuff I've Done
+### Game Development Projects
+- **Angry Birds clone** - Unity 2D
+- **Flappy Bird clone** - Unity 2D
+- **Pinball** - Unity 3D
+- **Boids Simulation bee chase** - Unity 2D+3D
+- **RPG Project** - Godot
+- **Rhythm Game** - Godot
+After what I've learned, Ill be participating on Game Jams more now.
+### Competitions 
+- **2nd Place** - MIREX Piano Continuation
 - **2nd Place - Overall** – DeveloperWeek 2025 (DevPost)
 - **1st Place - Oracle Challenge** – DeveloperWeek 2025 (DevPost)
 - **1st Place - Pliops Challenge** – DeveloperWeek 2025 (DevPost)
