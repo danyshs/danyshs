@@ -18,14 +18,21 @@ I want to turn AI into a tool that can serve the masses in an accessible and sus
 * * *
 ## Stuff I've Done
 ### Projects
-- Zettelkaster
-- DiscWhisper
-- Dan VoiceBot (WIP)
+Note: All AI projects are intended for use on a home computer using Local LLMs, runnable on a laptop with an RTX 3060.
+- **Dan VoiceBot (WIP)** — Voice to voice model for Computer Use with an OpenClaw backend
+- **NOblivion (WIP)** — File Manager and AI Conversational Organizer with Preview and Backups
+- **CareGiver (2025)** — A Vector Data Warehouse to parse and organize documents for an Assisted Living Facility (with an additional frontend for interacting with the patients)
+- **DiscWhisper (2024)** — Live GenAI Powered Speaker-Colored Closed Captioner
+- **ZettelMancer (2023)** — Local RAG to parse my Obsidian vault
+- **DanyshsWork (2023)** — My website! ^^ 
+
 ### Game Development Projects
+#### 2019:
 - **Angry Birds clone** - Unity 2D
 - **Flappy Bird clone** - Unity 2D
 - **Pinball** - Unity 3D
 - **Boids Simulation bee chase** - Unity 2D+3D
+#### 2026:
 - **RPG Project** - Godot
 - **Rhythm Game** - Godot
 After what I've learned, Ill be participating on Game Jams more now.
