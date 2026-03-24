@@ -3,21 +3,25 @@
 - Competitive Programmer
 - AI Researcher
 - Game Dev
-- Loves videogames
 
 I want to turn AI into a tool that can serve the masses in an accessible and sustainable way.
  
 * * *
 ## Career
 ### Research Publications
-- **UI/UX Design** — https://arxiv.org/abs/2311.13494
-- **Generative AI** — https://www.researchgate.net/publication/395541308_A_Traditional_Approach_to_Symbolic_Piano_Continuation
+- **UI/UX Design** —
+An alternative UI for Netflix to reduce doomscrolling
+https://arxiv.org/abs/2311.13494
+- **Generative AI** —
+A Tiny LLM that completes incomplete piano note segments, outperforming far larger models.
+https://www.researchgate.net/publication/395541308_A_Traditional_Approach_to_Symbolic_Piano_Continuation
 ### Job Experience
 - **2 Years as a Data Scientist**
 - **6 Months as a Generative AI Engineer**
 * * *
+
 ## Stuff I've Done
-### Projects
+### Comp Sci Projects
 Note: All AI projects are intended for use on a home computer using Local LLMs, runnable on a laptop with an RTX 3060.
 - **Dan VoiceBot (WIP)** — Voice to voice model for Computer Use with an OpenClaw backend
 - **NOblivion (WIP)** — File Manager and AI Conversational Organizer with Preview and Backups
@@ -27,14 +31,14 @@ Note: All AI projects are intended for use on a home computer using Local LLMs, 
 - **DanyshsWork (2023)** — My website! ^^ 
 
 ### Game Development Projects
+#### 2026:
+- **RPG Project** - Godot
+- **Rhythm Game** - Godot
 #### 2019:
 - **Angry Birds clone** - Unity 2D
 - **Flappy Bird clone** - Unity 2D
 - **Pinball** - Unity 3D
 - **Boids Simulation bee chase** - Unity 2D+3D
-#### 2026:
-- **RPG Project** - Godot
-- **Rhythm Game** - Godot
 
 After what I've learned, Ill be participating on Game Jams more now.
 ### Competitions 
