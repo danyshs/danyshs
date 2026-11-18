@@ -5,8 +5,8 @@ AI engineer and former data scientist. I like making models run well on small, l
 ## Research
 - **A Traditional Approach to Symbolic Piano Continuation** (MIREX 2025, co-author, EleutherAI SOAR).
   A 20M-parameter RWKV-7 trained from scratch to continue piano pieces. In the double-blind listening test it tied a 39× larger 780M transformer and beat a 60× larger 1.2B one.
-  [arXiv:2509.12267](https://arxiv.org/abs/2509.12267) · [code and weights](https://github.com/christianazinn/mirex2025)
-- **Comparative Analysis of Supportive Navigation on Movie Recommenders** (as Danysh Syed).
+  [ResearchGate](https://www.researchgate.net/publication/395541308_A_Traditional_Approach_to_Symbolic_Piano_Continuation) · [code and weights](https://github.com/christianazinn/mirex2025)
+- **A Comparative Analysis of Supportive Navigation on Movie Recommenders** (as Danysh Syed).
   An alternative Netflix-style UI to cut down on endless scrolling.
   [arXiv:2311.13494](https://arxiv.org/abs/2311.13494)
 
