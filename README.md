@@ -1,59 +1,33 @@
-# Hi, I'm Danysh!
+# Hi, I'm Danysh
 
-- Competitive Programmer
-- AI Researcher
-- Game Dev
+AI engineer and former data scientist. I like making models run well on small, local hardware.
 
-I want to turn AI into a tool that can serve the masses in an accessible and sustainable way.
- 
-* * *
-## Career
-### Research Publications
-- **UI/UX Design** —
-An alternative UI for Netflix to reduce doomscrolling
-https://arxiv.org/abs/2311.13494
-- **Generative AI** —
-A Tiny LLM that completes incomplete piano note segments, outperforming far larger models.
-https://www.researchgate.net/publication/395541308_A_Traditional_Approach_to_Symbolic_Piano_Continuation
-### Job Experience
-- **2 Years as a Data Scientist**
-- **6 Months as a Generative AI Engineer**
-* * *
+## Research
+- **A Traditional Approach to Symbolic Piano Continuation** (MIREX 2025, co-author, EleutherAI SOAR).
+  A 20M-parameter RWKV-7 trained from scratch to continue piano pieces. In the double-blind listening test it tied a 39× larger 780M transformer and beat a 60× larger 1.2B one.
+  [arXiv:2509.12267](https://arxiv.org/abs/2509.12267)
+- **Comparative Analysis of Supportive Navigation on Movie Recommenders** (as Danysh Syed).
+  An alternative Netflix-style UI to cut down on endless scrolling.
+  [arXiv:2311.13494](https://arxiv.org/abs/2311.13494)
 
-## Stuff I've Done
-### Comp Sci Projects
-Note: All AI projects are intended for use on a home computer using Local LLMs, runnable on a laptop with an RTX 3060.
-- **Dan VoiceBot (WIP)** — Voice to voice model for Computer Use with an OpenClaw backend
-- **NOblivion (WIP)** — File Manager and AI Conversational Organizer with Preview and Backups
-- **CareGiver (2025)** — A Vector Data Warehouse to parse and organize documents for an Assisted Living Facility (with an additional frontend for interacting with the patients)
-- **DiscWhisper (2024)** — Live GenAI Powered Speaker-Colored Closed Captioner
-- **ZettelMancer (2023)** — Local RAG to parse my Obsidian vault
-- **DanyshsWork (2023)** — My website! ^^ 
+## Experience
+- **AI & Software Developer**, Larkwin Labs (2026): foundations of an offline AI coding CLI on local models.
+- **Generative AI Software Engineer** (volunteer), FeelGoodGames (2024): testing and tuning a child-safety LLM filter.
+- **Data Scientist**, Afiniti (2021–2023): ML models for call-center agent-caller pairing.
 
-### Game Development Projects
-#### 2026:
-- **RPG Project** - Godot
-- **Rhythm Game** - Godot
-#### 2019:
-- **Angry Birds clone** - Unity 2D
-- **Flappy Bird clone** - Unity 2D
-- **Pinball** - Unity 3D
-- **Boids Simulation bee chase** - Unity 2D+3D
+## Merged upstream fixes
+- [Jgamrot/yharnam-pc #111](https://github.com/Jgamrot/yharnam-pc/pull/111): co-op hosting advertised a LAN address when Tailscale was installed outside Program Files.
+- [joshuathompson/baton #29](https://github.com/joshuathompson/baton/pull/29): Spotify auth broke after the API stopped accepting `localhost` redirects.
+- [gennaro-tedesco/zathuraconf #11](https://github.com/gennaro-tedesco/zathuraconf/pull/11): install docs for Go binaries.
 
-After what I've learned, Ill be participating on Game Jams more now.
-### Competitions 
-- **2nd Place** - MIREX Piano Continuation
-- **2nd Place - Overall** – DeveloperWeek 2025 (DevPost)
-- **1st Place - Oracle Challenge** – DeveloperWeek 2025 (DevPost)
-- **1st Place - Pliops Challenge** – DeveloperWeek 2025 (DevPost)
-- **2nd Place** – Team Project Sam, AppCon 2019 (Telenor Microfinance Bank)
-- **Semi-Finalist** – IBA Data Science Hackathon 2019 (Inqline)
-- **Finalist** – Speed Programming, ProCom 2019 (FAST University)
-- **2nd Place** – Process Hackathon, ProCom 2019 (FAST University)
-- **1st Place** – Pseudocode, Habib Code.Play() 3.0 (Habib University)
-- **2nd Place** – International Fishackathon 2018 (Hackernest)
-- **1st Place** – Logic Building, Habib Code.Play() 2.0 (Habib University)
-- **2nd Place** – Speed Programming, CodeFest 2017 (IBA Karachi)
-* * *
-
-Currently on the job hunt!
+## Competitions
+- **2nd Place**, MIREX 2025 Symbolic Piano Continuation
+- **2nd Place Overall**, **1st Place Oracle Challenge**, **1st Place Pliops Challenge**, DeveloperWeek 2025
+- **2nd Place**, AppCon 2019 (Telenor Microfinance Bank)
+- **Finalist**, IBA Data Science Hackathon 2019 (Inqline)
+- **Finalist**, Speed Programming, ProCom 2019 (FAST University)
+- **2nd Place**, Process Hackathon, ProCom 2019 (FAST University)
+- **1st Place**, Pseudocode, Habib Code.Play() 3.0
+- **2nd Place**, International Fishackathon 2018 (Hackernest)
+- **1st Place**, Logic Building, Habib Code.Play() 2.0
+- **2nd Place**, Speed Programming, CodeFest 2017 (IBA Karachi)
